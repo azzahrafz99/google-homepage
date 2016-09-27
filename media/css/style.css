@@ -1,0 +1,69 @@
+body *{
+	margin: 0px;
+	padding: 0px;
+	font-family: arial, san-serif;
+}
+
+.menu{
+	margin-left: 1070px;
+	margin-top: 15px;
+}
+
+#gmail{
+	margin-right: 5px;
+}
+.menu a{
+	text-decoration: none;
+	color: #4f4f4f;
+	font-size: 14px
+}
+
+.menu button{
+	background-color: #4965ff;
+	height: 30px;
+	width: 65px;
+	color: white;
+	border: 0px;
+	margin-left: 5px;
+	border-radius: 2px;
+}
+
+.logo-google{
+	margin-top: 150px;
+}
+
+input[type=text]{
+	padding: 10px;
+	margin-top: 20px;
+	width: 500px;
+	border: 1px solid #d8d8d8;
+}
+
+.button_below{
+	margin-top: 30px;
+	
+}
+.button_below button{
+	background-color: #f2f2f2;
+	border: 0px;
+	color: 4f4f4f;
+	padding: 7.5px;
+	width: 180px;
+	height: 40px;
+	color: #4f4f4f;
+	font-family: arial, san-serif;
+	font-size: 14px;
+
+}
+
+.button_below button:hover{
+	background-color: #f9f7f7;
+	border: 1px solid #aaaaaa;
+}
+#gsearch{
+	margin-right: 5px;
+}
+
+#lucky{
+	margin-left: 5px;
+}
